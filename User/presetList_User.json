@@ -1,0 +1,89 @@
+{
+    "menu0": {
+        "entries": [
+            "Mixes of Presets",
+            "JSON Exp"
+        ],
+        "hasAll": true,
+        "order": 0
+    },
+    "presetOrder": 0,
+    "presets": [
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "8thos2",
+            "tags": [
+                "Mixes of Presets"
+            ]
+        },
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "emptytest",
+            "tags": [
+                "JSON Exp"
+            ]
+        },
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "dh1",
+            "tags": [
+                "JSON Exp"
+            ]
+        },
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "formatter",
+            "tags": [
+                "JSON Exp"
+            ]
+        },
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "8th Ostinato + Woodwind Lead",
+            "tags": [
+                "Mixes of Presets"
+            ]
+        },
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "format2",
+            "tags": [
+                "JSON Exp"
+            ]
+        },
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "fullinst_1",
+            "tags": []
+        },
+        {
+            "keyRange": {
+                "maxKey": 103,
+                "minKey": 36
+            },
+            "name": "fullinst_import",
+            "tags": []
+        }
+    ]
+}
